@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "\u062d\u0632\u0645\u0629 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0646\u0645\u0648\u0630\u062c 01",
+        "en": "Bundle demo 01"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "adilah.m@salla.sa",
+    "support_url": "",
+    "repository": "https://github.com/Adilahmatcharan/tw-bundle-demo-01",
+    "components": []
+}
